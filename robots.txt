@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://taizohghoo.swilliams.me/sitemap.xml
